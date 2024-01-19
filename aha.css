@@ -3,7 +3,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: url("C:\Users\Chandu\Downloads\ahahahhahahaha.jpg");
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaPinS_GpyMqKJ-lyoow44Kl24yu1Jy0gHDo8z3tUv_RAecFmtBEGS49GXtiWce-W8rw&usqp=CAU");
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: darken;
@@ -13,8 +13,9 @@ body {
   
   header {
     background-color: #257bdd;
-    background-image: url("C:\Users\Chandu\Downloads\ahahahhahahaha.jpg");
-    padding: 20px 0;
+    background-image: url("https://www.adgully.com/img/800/202208/copy-of-copy-of-adgully-2022-08-11t155950-753.png.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
 
   }
   
@@ -95,4 +96,7 @@ body {
     padding: 20px 0;
     background-color: #f5f5f5;
   }
+  .h2{
+    background-color: aliceblue;
+   }
   
